@@ -10,8 +10,8 @@ Welcome to my GitHub! I am a FREELANCE Integration Architect passionate about te
 - 🌱 Always learning — currently exploring Boomi AI Agent Studio in different customer usecases.
 
 ## 📫 Let's Connect
-- LinkedIn: [\[LinkedIn\]](https://www.linkedin.com/in/consor/)
-- Email: [sorin@super soft.it](mailto:sorin@super-soft.it)
+- LinkedIn: [My LinkedIn profile](https://www.linkedin.com/in/consor/)
 - Website: [sorinconstantin.online](https://sorinconstantin.online/consor/)
+- Email: [reach me at super-soft.it](mailto:sorin@super-soft.it)
 
 Thanks for stopping by! Feel free to explore and reach out if you'd like to collaborate.
