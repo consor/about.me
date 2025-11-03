@@ -1,6 +1,6 @@
 # about.me
 
-# 👋 My name is Sorin Constantin,
+# 👋 Hello, my name is Sorin Constantin
 
 Welcome to my GitHub! I am a FREELANCE Integration Architect passionate about technology, problem-solving, and continuous learning. I enjoy working on projects that blend creativity with logic, and I'm always exploring new tools and frameworks to improve my workflow.
 
